@@ -19,4 +19,13 @@
         android:background="#00000000">
     </com.zxing.android.view.ViewfinderView>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="请将条码置于取景框内扫描。"
+        android:textSize="15sp" >
+    </TextView>
+
 </RelativeLayout>
